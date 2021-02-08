@@ -518,9 +518,9 @@ img {
   border: 1px solid var(--accent-color);
 }
 
-.activ-border {
+/* .activ-border {
   border: 1px solid var(--accent-color);
-}
+} */
 
 .linc-clients:hover svg,
 .linc-clients:focus svg {
